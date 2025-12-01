@@ -8,6 +8,6 @@
 - **Version Control**: [![Git](https://skillicons.dev/icons?i=git&theme=dark)]() [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)]() [![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://gitlab.com/aidartalgatbekuulu)
 
 ## 🤝 Let's Connect
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/aidar-talgatbek-uulu-3387a830b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:aidartalgatbekuulu@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/aidar-talgatbek-uulu-3387a830b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Thanks for stopping by, and happy coding! 🚀
