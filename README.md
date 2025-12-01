@@ -1,6 +1,4 @@
-## HI WELCOME TO MY PROFILE 👋
-
-I’m a Python web application developer who loves building intuitive and scalable web solutions. Take a look around to see my projects, contributions, and what I'm working on!
+!@#$%^&*
 
 ## 🛠️ Technologies & Tools
 - **Languages**:   [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/) [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)]() [![HTML](https://skillicons.dev/icons?i=html&theme=dark)]() [![CSS](https://skillicons.dev/icons?i=css&theme=dark)]()
