@@ -1,13 +1,58 @@
-!@#$%^&*
+<div align="center">
 
-## 🛠️ Technologies & Tools
-- **Languages**:   [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/) [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)]() [![HTML](https://skillicons.dev/icons?i=html&theme=dark)]() [![CSS](https://skillicons.dev/icons?i=css&theme=dark)]()
-- **Frameworks**:   [![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://www.djangoproject.com/)
-- **Databases**:   [![Postgres](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
-- **Containerization**:   [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
-- **Version Control**: [![Git](https://skillicons.dev/icons?i=git&theme=dark)]() [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)]() [![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://gitlab.com/aidartalgatbekuulu)
+# Привет! Я Aidar 👋
+  
+### 💻 Full Stack Developer | Python & Django Enthusiast
 
-## 🤝 Let's Connect
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/aidar-talgatbek-uulu-3387a830b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+web+applications;Django+is+my+passion;Let's+create+something+cool)
 
-Thanks for stopping by, and happy coding! 🚀
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🛠️ Технологии и Инструменты
+
+### 🌐 Frontend & Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+  </a>
+</p>
+
+### ⚙️ Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,postgres,redis,docker&theme=dark" />
+  </a>
+</p>
+
+### 🔧 Tools & Version Control
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 📈 Моя активность
+![GitHub Snake](https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🤝 Связаться со мной
+<p align="left">
+<a href="https://www.linkedin.com/in/aidar-talgatbek-uulu-3387a830b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidar" height="30" width="40" /></a>
+<a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="aidar" height="30" width="40" /></a>
+</p>
+
+<br />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
+</div>
